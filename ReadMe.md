@@ -119,7 +119,7 @@ Through a lot of nerves and almost ripping my hair out my roommate helped me by 
 
 ___
 
-### 10. Semester add/remove
+### 11. Semester add/remove
 **July 25 2025**
 **Commits:**[`70733bc`](https://github.com/Mopstar/frontendui/commit/70733bc)
 
